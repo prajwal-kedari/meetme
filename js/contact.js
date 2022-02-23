@@ -1,3 +1,4 @@
+alert(777)
 $(document).ready(function(){
     
     (function($) {
